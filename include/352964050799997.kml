@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>ruta2</name>
+  <description><![CDATA[]]></description>
+  <NetworkLink>
+    <name>ruta2</name>
+    <Link>
+      <href>http://maps.google.cl/maps/ms?authuser=0&amp;vps=13&amp;ie=UTF8&amp;hl=es&amp;oe=UTF8&amp;msa=0&amp;msid=213281044540582534680.0004dc49c49e75e40635f&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>
